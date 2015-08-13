@@ -22,6 +22,7 @@
 
 import Foundation
 
+
 /**
     Used to represent whether a request was successful or encountered an error.
 

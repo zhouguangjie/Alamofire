@@ -307,6 +307,7 @@ public func upload(
 
 // MARK: URL Request
 
+
 /**
     Creates a download request using the shared manager instance for the specified method and URL string.
 
@@ -355,3 +356,4 @@ public func download(URLRequest: URLRequestConvertible, destination: Request.Dow
 public func download(resumeData data: NSData, destination: Request.DownloadFileDestination) -> Request {
     return Manager.sharedInstance.download(data, destination: destination)
 }
+

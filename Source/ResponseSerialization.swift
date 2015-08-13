@@ -24,6 +24,7 @@ import Foundation
 
 // MARK: ResponseSerializer
 
+
 /**
     The type in which all response serializers must conform to in order to serialize a response.
 */

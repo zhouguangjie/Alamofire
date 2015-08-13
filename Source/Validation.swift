@@ -24,6 +24,7 @@ import Foundation
 
 extension Request {
 
+    
     /**
         Used to represent whether validation was successful or encountered an error resulting in a failure.
 
